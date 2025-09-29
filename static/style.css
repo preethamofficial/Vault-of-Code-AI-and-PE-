@@ -1,0 +1,13 @@
+body{font-family:Inter,Arial,Helvetica,sans-serif;background:#f7f8fb;color:#111;margin:0;padding:20px}
+.container{max-width:900px;margin:24px auto;background:#fff;padding:22px;border-radius:12px;box-shadow:0 6px 18px rgba(0,0,0,0.06)}
+h1{margin-top:0}
+.lead{color:#444}
+label{display:block;margin-top:12px;font-weight:600}
+textarea,input[type="text"],select{width:100%;padding:10px;border-radius:6px;border:1px solid #ddd}
+input[type="range"]{width:100%}
+.btn{display:inline-block;margin-top:12px;padding:10px 14px;border-radius:8px;background:#2563eb;color:#fff;border:none;cursor:pointer}
+.btn.small{padding:6px 8px}
+.result{background:#0f172a;color:#e6eef8;padding:12px;border-radius:6px;overflow:auto}
+.history-list{list-style:none;padding-left:0}
+.history-list li{padding:12px;border-bottom:1px solid #eee;margin-bottom:6px}
+footer small{color:#666}

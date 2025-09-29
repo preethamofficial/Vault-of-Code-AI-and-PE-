@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Short factual answer (Q&A)",
+    "template": "Answer concisely and clearly: {input}"
+  },
+  {
+    "title": "Explain like I'm five",
+    "template": "Explain the following to a 5-year-old: {input}"
+  },
+  {
+    "title": "Summarize long text (short)",
+    "template": "Summarize the text below in 3 short sentences: {input}"
+  },
+  {
+    "title": "Short story seed",
+    "template": "Write a 300-word short story based on: {input}"
+  }
+]

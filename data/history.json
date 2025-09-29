@@ -1,0 +1,44 @@
+[
+  {
+    "id": "bf21f561-5a97-4b6d-9092-4d4dcb641feb",
+    "timestamp": "2025-09-29T19:32:34.843050Z",
+    "function": "answer",
+    "user_input": "",
+    "result": "I can't call the cloud API because no key is set. Here's a mock answer to illustrate the format."
+  },
+  {
+    "id": "c9467e85-505d-4a00-8a6f-02e51d295bf0",
+    "timestamp": "2025-09-29T19:34:34.291029Z",
+    "function": "creative",
+    "user_input": "python ",
+    "result": "An adventurous cat in a quiet village learns that a story they read is coming true. They learn an important lesson and the day ends with a hopeful twist."
+  },
+  {
+    "id": "a3286490-0cd5-4187-adb1-ecd5425b3c0c",
+    "timestamp": "2025-09-29T19:35:20.835698Z",
+    "function": "summarize",
+    "user_input": "fully about python\r\n",
+    "result": "fully about python"
+  },
+  {
+    "id": "fa93bdaa-cb86-45af-8421-45ab6c7c3f00",
+    "timestamp": "2025-09-29T19:35:21.238460Z",
+    "function": "answer",
+    "user_input": "",
+    "result": "I can't call the cloud API because no key is set. Here's a mock answer to illustrate the format."
+  },
+  {
+    "id": "3ec99f3b-b40c-46a4-8d21-1eb4216dcaf1",
+    "timestamp": "2025-09-29T19:35:38.539482Z",
+    "function": "answer",
+    "user_input": "",
+    "result": "This is a placeholder answer. Replace OPENAI_API_KEY with your key to get real AI responses."
+  },
+  {
+    "id": "2efb7818-83b4-4339-a596-4d7cb5515ef0",
+    "timestamp": "2025-09-29T19:36:08.129947Z",
+    "function": "creative",
+    "user_input": "i was interested to learn new thigs like ai",
+    "result": "A brave coder under neon lights discovers a small machine that talks. They learn an important lesson and the day ends with a hopeful twist."
+  }
+]
